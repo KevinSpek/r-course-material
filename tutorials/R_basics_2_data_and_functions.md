@@ -1051,7 +1051,7 @@ If you want to learn more about the basics of R, we recommend:
   - Taking one of the many (free) online introductions, such as the ones
     offered at
     [DataCamp](https://www.datacamp.com/courses/free-introduction-to-r/)
-    or [Code School](http://tryr.codeschool.com/).
+    or [Coddy](https://coddy.tech/landing/r).
 
 Also, it could be nice to grab some of the
 [cheatsheets](https://www.rstudio.com/resources/cheatsheets/) collected
